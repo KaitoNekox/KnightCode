@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/cKZ8kvtF/d2e10137614049fdbab825a5b7a52ba9.webp" alt="KnightCode Logo">
+  <img src="https://i.ibb.co/VY31hw9t/d2e10137614049fdbab825a5b7a52ba9.webp" alt="KnightCode Logo">
 </p>
 
 <p align="center">
