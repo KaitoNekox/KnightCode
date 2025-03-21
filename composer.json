@@ -1,0 +1,10 @@
+{
+    "name": "kaitoneko/ajedrezphp",
+    "description": "Librería de ajedrez en PHP jugable por terminal",
+    "autoload": {
+        "psr-4": {
+            "AjedrezPHP\\": "src/"
+        }
+    },
+    "require": {}
+}
